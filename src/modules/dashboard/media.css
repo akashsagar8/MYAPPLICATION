@@ -1,0 +1,21 @@
+@media(max-width:800px)
+{
+    .sidebar
+    {
+        margin-left: -400px;;
+        transition-duration: 500ms;
+        /* display: none; */
+
+    }
+
+}
+@media(max-width:800px)
+{
+    .mybtn
+    {
+        display: block!important;
+        /* display: none; */
+
+    }
+
+}

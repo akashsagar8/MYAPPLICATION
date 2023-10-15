@@ -1,0 +1,13 @@
+.mycard
+{
+    transition-duration: 100ms;
+}
+.mycard:hover
+{
+
+    background-color: red;
+    cursor: pointer;
+    box-shadow: 4px 5px 4px #b4eae6;
+    transform: scale(1.01,1.01);
+    transition-duration: 500ms;
+}

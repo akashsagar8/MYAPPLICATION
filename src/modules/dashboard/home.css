@@ -1,0 +1,82 @@
+.main
+{
+    margin-top: 80px;
+    
+}
+.nav1
+{
+    /* border:1px solid gray; */
+   margin-top: -10px;
+    width:100%!important;
+}
+
+.block1>div
+{
+    height: auto;
+    /* margin-left: 10px; */
+    transition-duration: .5s;
+    box-sizing: border-box;
+    margin-top: 10px;;
+    /* width: 24%; */
+    /* border: 1px solid gray; */
+    background-color: #c0f2d21c;
+    border-radius: 32px;
+    box-shadow: 4px 4px 5px #d0d7c9b8;
+}
+
+
+.box2>div
+{
+    height:300px;
+    margin-top: 40px;;
+    /* border:1px solid gray; */
+
+
+
+}
+.count
+{
+    font-size: 60px;
+    font-stretch: semi-condensed;
+    font-weight: lighter;
+    color: #bcae18;
+}
+
+.circle
+{
+    height:"30px";
+    width:"40px";
+    border:"1px solid gray";
+
+}
+
+.footer
+{
+    background-color:  #c0c0c0eb;
+    color: rgb(8, 8, 8);;
+    margin-top: 50px;
+    height: 50px;;
+}
+
+.hbr:hover{
+
+    box-shadow: 3px 3px 5px #b4eae6;
+    cursor: pointer;
+    transform: scale(1.05,1.05);
+    transition-duration: .5s;
+
+}
+
+
+/* ----------------------------------this is for mobile menu------------------------- */
+
+.menu
+{
+    height: 612px;
+    margin-top: 75px;
+    width: 300px!important;
+    float: right;
+    position: fixed;
+    border:1px solid gray;
+    display: none;
+}

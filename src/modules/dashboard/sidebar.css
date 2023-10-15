@@ -1,0 +1,56 @@
+.sidebar
+{
+    height:100vh;
+    background-color: black;
+    color: aliceblue;
+    position: fixed;
+    z-index: 4;
+    width: 17vw;
+    margin-left: -12px;
+    /* width:1; */
+}
+.mobilesidebar
+{
+    height:800px;
+    background-color: black;
+    color: aliceblue;
+    position: fixed;
+    z-index: 4;
+    width: 200px;
+    margin-left: -12px;
+}
+.title
+{
+    font-weight: 800;;
+}
+.dashboard
+{
+    list-style-type: none;
+
+}
+.dashboard>li
+{
+    height: 6vh;
+    /* border: 1px solid gray; */
+    margin-top: 1vh;
+    box-shadow: 2px 3px 5px #87879d;
+    font-size: 2.2vh;
+    color: white!important;
+    font-weight: 700;
+}
+.dashboard>li:hover
+{
+    box-shadow: 2px 2px 4px blue;
+
+}
+.logo
+{
+    font-size: 29px;
+    font-weight: 900;
+    margin-left: 4px;
+}
+.mynav
+{
+    position: fixed;
+    z-index: 1;
+}
