@@ -2,6 +2,7 @@ import React, { Fragment } from 'react';
 import '../../css/sidebar.css';
 import { Link } from 'react-router-dom';
 import './sidebar.css';
+import './media.css'
 
 function Sidebar() {
   return (

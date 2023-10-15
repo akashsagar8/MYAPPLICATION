@@ -1,5 +1,5 @@
 import React, { Fragment } from "react";
-import img from '../../images/5183406.jpg'
+import img from '../../images/promotion.jpg'
 import Footer1 from "../dashboard/Footer";
 
 function Promot() {

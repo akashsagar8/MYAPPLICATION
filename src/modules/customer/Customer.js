@@ -7,7 +7,7 @@ function Customer() {
       <div className="container">
         <div className="row ">
           <h1 className="justify-content-center d-flex mb-5 mt-3 ts-5"> Our services</h1>
-          <div className="col-md-6" data-aos="slide-right">
+          <div className="col-md-6" data-aos="fade-up">
             <section>
               <p>
                 lorem Ipsum is simply dummy text of the printing and typesetting
@@ -32,7 +32,7 @@ function Customer() {
               </p>
             </section>
           </div>
-          <div className="col-md-6" data-aos="slide-left">
+          <div className="col-md-6" data-aos="fade-up">
             <section>
               <img
                 src={img1}
@@ -46,7 +46,7 @@ function Customer() {
 	<h1 className="d-flex justify-content-center mt-5">Web-Designing</h1>
       <div className="container">
         <div className="row mt-5">
-          <div className="col-md-6" data-aos="slide-right">
+          <div className="col-md-6" data-aos="fade-up">
             <section>
               <img
                 src={img1}
@@ -56,7 +56,7 @@ function Customer() {
             </section>
           </div>
 
-          <div className="col-md-6" data-aos="slide-left">
+          <div className="col-md-6" data-aos="fade-up">
             <section>
               <p>
                 lorem Ipsum is simply dummy text of the printing and typesetting
