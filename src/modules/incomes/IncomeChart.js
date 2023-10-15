@@ -1,7 +1,7 @@
 import React, { Fragment } from 'react'
 // import { LineChart,CartesianGrid,XAxis,YAxis,Tooltip,Legend,Line, ResponsiveContainer } from 'recharts'
 
-import { XAxis,YAxis,Tooltip,AreaChart,rangeData,Area ,CartesianGrid, ResponsiveContainer} from 'recharts'
+import { XAxis,YAxis,Tooltip,AreaChart,Area ,CartesianGrid, ResponsiveContainer} from 'recharts'
 import {data} from './mydata'
 
 function IncomeChart() {

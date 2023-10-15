@@ -5,7 +5,7 @@ import NavBar from "./NavBar";
 import "./home.css";
 import "./media.css";
 import Mobile1 from "./MobileSidebar";
-import icon from "../../images/icons8-menu.gif";
+// import icon from "../../images/icons8-menu.gif";
 import MenuOpenIcon from "@mui/icons-material/MenuOpen";
 import CloseIcon from "@mui/icons-material/Close";
 import AOS from 'aos';
@@ -46,7 +46,7 @@ function Landingpage() {
                     float: "right",
                     position: "relative",
                     zIndex: " 1",
-                    float: "right",
+                   
                     marginTop: "-55px",
                     display: "none",
                   }}

@@ -1,8 +1,8 @@
 import React, { Fragment } from 'react';
-import { FcApproval,FcAssistant, FcBusinessman} from "react-icons/fc";
+import {  FcBusinessman} from "react-icons/fc";
 import './sidebar.css';
 import '../../js/home'
-import Login1 from './Loginform'
+
 
 
 

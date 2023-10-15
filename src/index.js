@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './style.css';
 import {BrowserRouter,Route,Routes} from 'react-router-dom';
-import Sidebar from './modules/dashboard/Sidebar';
+// import Sidebar from './modules/dashboard/Sidebar';
 import Home from './modules/dashboard/Home';
 import Product from './modules/products/Product';
 import Customer from './modules/customer/Customer';

@@ -1,13 +1,12 @@
 import React, { Fragment } from "react";
 import "./counter";
 import "./count.css";
-import img2 from "../../images/income.jpg";
+
 import img1 from "../../images/moneybags-30556_1280.png";
-import img3 from "../../images/income (3).jpg";
+
 
 import IncomeChart from "./IncomeChart";
-import { Height } from "@mui/icons-material";
-import ProductsApi from "../products/ProductsApi";
+
 import IncomeApi from "./IncomeApi";
 import Footer1 from "../dashboard/Footer";
 

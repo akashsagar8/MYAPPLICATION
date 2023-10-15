@@ -1,4 +1,4 @@
-import React, { Fragment,useState } from 'react';
+import React, { Fragment } from 'react';
 import './home.css';
 import { FcApproval,FcAssistant, FcBusinessman} from "react-icons/fc";
 import TableData from './TableData';
@@ -20,7 +20,7 @@ import 'aos/dist/aos.css'; // You can also use <link> for styles
 AOS.init(
 {
   duration:1000,
-  offset: 50
+  offset: 400
 }
 
 );

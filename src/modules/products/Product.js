@@ -1,6 +1,6 @@
-import React, { Fragment, useEffect, useState } from 'react';
-import axios from 'axios';
-import { Link } from 'react-router-dom';
+import React, { Fragment } from 'react';
+// import axios from 'axios';
+// import { Link } from 'react-router-dom';
 import ProductsApi from './ProductsApi';
 import Footer1 from '../dashboard/Footer';
 
